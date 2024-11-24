@@ -1,0 +1,14 @@
+C:\dev\treinosProjetosCSharp\CalculoDeDesconto\bin\Debug\net8.0\CalculoDeDesconto.exe
+C:\dev\treinosProjetosCSharp\CalculoDeDesconto\bin\Debug\net8.0\CalculoDeDesconto.deps.json
+C:\dev\treinosProjetosCSharp\CalculoDeDesconto\bin\Debug\net8.0\CalculoDeDesconto.runtimeconfig.json
+C:\dev\treinosProjetosCSharp\CalculoDeDesconto\bin\Debug\net8.0\CalculoDeDesconto.dll
+C:\dev\treinosProjetosCSharp\CalculoDeDesconto\bin\Debug\net8.0\CalculoDeDesconto.pdb
+C:\dev\treinosProjetosCSharp\CalculoDeDesconto\obj\Debug\net8.0\CalculoDeDesconto.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\treinosProjetosCSharp\CalculoDeDesconto\obj\Debug\net8.0\CalculoDeDesconto.AssemblyInfoInputs.cache
+C:\dev\treinosProjetosCSharp\CalculoDeDesconto\obj\Debug\net8.0\CalculoDeDesconto.AssemblyInfo.cs
+C:\dev\treinosProjetosCSharp\CalculoDeDesconto\obj\Debug\net8.0\CalculoDeDesconto.csproj.CoreCompileInputs.cache
+C:\dev\treinosProjetosCSharp\CalculoDeDesconto\obj\Debug\net8.0\CalculoDeDesconto.dll
+C:\dev\treinosProjetosCSharp\CalculoDeDesconto\obj\Debug\net8.0\refint\CalculoDeDesconto.dll
+C:\dev\treinosProjetosCSharp\CalculoDeDesconto\obj\Debug\net8.0\CalculoDeDesconto.pdb
+C:\dev\treinosProjetosCSharp\CalculoDeDesconto\obj\Debug\net8.0\CalculoDeDesconto.genruntimeconfig.cache
+C:\dev\treinosProjetosCSharp\CalculoDeDesconto\obj\Debug\net8.0\ref\CalculoDeDesconto.dll

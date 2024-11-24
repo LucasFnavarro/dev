@@ -1,0 +1,14 @@
+C:\dev\FundamentosCSharp\testar\obj\Debug\net8.0\testar.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCSharp\testar\obj\Debug\net8.0\testar.AssemblyInfoInputs.cache
+C:\dev\FundamentosCSharp\testar\obj\Debug\net8.0\testar.AssemblyInfo.cs
+C:\dev\FundamentosCSharp\testar\obj\Debug\net8.0\testar.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCSharp\testar\bin\Debug\net8.0\testar.exe
+C:\dev\FundamentosCSharp\testar\bin\Debug\net8.0\testar.deps.json
+C:\dev\FundamentosCSharp\testar\bin\Debug\net8.0\testar.runtimeconfig.json
+C:\dev\FundamentosCSharp\testar\bin\Debug\net8.0\testar.dll
+C:\dev\FundamentosCSharp\testar\bin\Debug\net8.0\testar.pdb
+C:\dev\FundamentosCSharp\testar\obj\Debug\net8.0\testar.dll
+C:\dev\FundamentosCSharp\testar\obj\Debug\net8.0\refint\testar.dll
+C:\dev\FundamentosCSharp\testar\obj\Debug\net8.0\testar.pdb
+C:\dev\FundamentosCSharp\testar\obj\Debug\net8.0\testar.genruntimeconfig.cache
+C:\dev\FundamentosCSharp\testar\obj\Debug\net8.0\ref\testar.dll

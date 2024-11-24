@@ -1,0 +1,14 @@
+C:\dev\FundamentosCSharp\Indices\bin\Debug\net8.0\Indices.exe
+C:\dev\FundamentosCSharp\Indices\bin\Debug\net8.0\Indices.deps.json
+C:\dev\FundamentosCSharp\Indices\bin\Debug\net8.0\Indices.runtimeconfig.json
+C:\dev\FundamentosCSharp\Indices\bin\Debug\net8.0\Indices.dll
+C:\dev\FundamentosCSharp\Indices\bin\Debug\net8.0\Indices.pdb
+C:\dev\FundamentosCSharp\Indices\obj\Debug\net8.0\Indices.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCSharp\Indices\obj\Debug\net8.0\Indices.AssemblyInfoInputs.cache
+C:\dev\FundamentosCSharp\Indices\obj\Debug\net8.0\Indices.AssemblyInfo.cs
+C:\dev\FundamentosCSharp\Indices\obj\Debug\net8.0\Indices.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCSharp\Indices\obj\Debug\net8.0\Indices.dll
+C:\dev\FundamentosCSharp\Indices\obj\Debug\net8.0\refint\Indices.dll
+C:\dev\FundamentosCSharp\Indices\obj\Debug\net8.0\Indices.pdb
+C:\dev\FundamentosCSharp\Indices\obj\Debug\net8.0\Indices.genruntimeconfig.cache
+C:\dev\FundamentosCSharp\Indices\obj\Debug\net8.0\ref\Indices.dll

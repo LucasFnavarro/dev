@@ -1,0 +1,14 @@
+C:\dev\treinosProjetosCSharp\ConversorDeTemperatura\bin\Debug\net8.0\ConversorDeTemperatura.exe
+C:\dev\treinosProjetosCSharp\ConversorDeTemperatura\bin\Debug\net8.0\ConversorDeTemperatura.deps.json
+C:\dev\treinosProjetosCSharp\ConversorDeTemperatura\bin\Debug\net8.0\ConversorDeTemperatura.runtimeconfig.json
+C:\dev\treinosProjetosCSharp\ConversorDeTemperatura\bin\Debug\net8.0\ConversorDeTemperatura.dll
+C:\dev\treinosProjetosCSharp\ConversorDeTemperatura\bin\Debug\net8.0\ConversorDeTemperatura.pdb
+C:\dev\treinosProjetosCSharp\ConversorDeTemperatura\obj\Debug\net8.0\ConversorDeTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\treinosProjetosCSharp\ConversorDeTemperatura\obj\Debug\net8.0\ConversorDeTemperatura.AssemblyInfoInputs.cache
+C:\dev\treinosProjetosCSharp\ConversorDeTemperatura\obj\Debug\net8.0\ConversorDeTemperatura.AssemblyInfo.cs
+C:\dev\treinosProjetosCSharp\ConversorDeTemperatura\obj\Debug\net8.0\ConversorDeTemperatura.csproj.CoreCompileInputs.cache
+C:\dev\treinosProjetosCSharp\ConversorDeTemperatura\obj\Debug\net8.0\ConversorDeTemperatura.dll
+C:\dev\treinosProjetosCSharp\ConversorDeTemperatura\obj\Debug\net8.0\refint\ConversorDeTemperatura.dll
+C:\dev\treinosProjetosCSharp\ConversorDeTemperatura\obj\Debug\net8.0\ConversorDeTemperatura.pdb
+C:\dev\treinosProjetosCSharp\ConversorDeTemperatura\obj\Debug\net8.0\ConversorDeTemperatura.genruntimeconfig.cache
+C:\dev\treinosProjetosCSharp\ConversorDeTemperatura\obj\Debug\net8.0\ref\ConversorDeTemperatura.dll

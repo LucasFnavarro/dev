@@ -1,0 +1,14 @@
+C:\dev\FundamentosCSharp\ComparacaoDeStrings\bin\Debug\net8.0\ComparacaoDeStrings.exe
+C:\dev\FundamentosCSharp\ComparacaoDeStrings\bin\Debug\net8.0\ComparacaoDeStrings.deps.json
+C:\dev\FundamentosCSharp\ComparacaoDeStrings\bin\Debug\net8.0\ComparacaoDeStrings.runtimeconfig.json
+C:\dev\FundamentosCSharp\ComparacaoDeStrings\bin\Debug\net8.0\ComparacaoDeStrings.dll
+C:\dev\FundamentosCSharp\ComparacaoDeStrings\bin\Debug\net8.0\ComparacaoDeStrings.pdb
+C:\dev\FundamentosCSharp\ComparacaoDeStrings\obj\Debug\net8.0\ComparacaoDeStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCSharp\ComparacaoDeStrings\obj\Debug\net8.0\ComparacaoDeStrings.AssemblyInfoInputs.cache
+C:\dev\FundamentosCSharp\ComparacaoDeStrings\obj\Debug\net8.0\ComparacaoDeStrings.AssemblyInfo.cs
+C:\dev\FundamentosCSharp\ComparacaoDeStrings\obj\Debug\net8.0\ComparacaoDeStrings.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCSharp\ComparacaoDeStrings\obj\Debug\net8.0\ComparacaoDeStrings.dll
+C:\dev\FundamentosCSharp\ComparacaoDeStrings\obj\Debug\net8.0\refint\ComparacaoDeStrings.dll
+C:\dev\FundamentosCSharp\ComparacaoDeStrings\obj\Debug\net8.0\ComparacaoDeStrings.pdb
+C:\dev\FundamentosCSharp\ComparacaoDeStrings\obj\Debug\net8.0\ComparacaoDeStrings.genruntimeconfig.cache
+C:\dev\FundamentosCSharp\ComparacaoDeStrings\obj\Debug\net8.0\ref\ComparacaoDeStrings.dll

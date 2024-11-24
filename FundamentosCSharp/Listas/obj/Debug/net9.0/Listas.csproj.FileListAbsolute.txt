@@ -1,0 +1,15 @@
+C:\dev\FundamentosCSharp\Listas\bin\Debug\net9.0\Listas.exe
+C:\dev\FundamentosCSharp\Listas\bin\Debug\net9.0\Listas.deps.json
+C:\dev\FundamentosCSharp\Listas\bin\Debug\net9.0\Listas.runtimeconfig.json
+C:\dev\FundamentosCSharp\Listas\bin\Debug\net9.0\Listas.dll
+C:\dev\FundamentosCSharp\Listas\bin\Debug\net9.0\Listas.pdb
+C:\dev\FundamentosCSharp\Listas\obj\Debug\net9.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCSharp\Listas\obj\Debug\net9.0\Listas.AssemblyInfoInputs.cache
+C:\dev\FundamentosCSharp\Listas\obj\Debug\net9.0\Listas.AssemblyInfo.cs
+C:\dev\FundamentosCSharp\Listas\obj\Debug\net9.0\Listas.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCSharp\Listas\obj\Debug\net9.0\Listas.sourcelink.json
+C:\dev\FundamentosCSharp\Listas\obj\Debug\net9.0\Listas.dll
+C:\dev\FundamentosCSharp\Listas\obj\Debug\net9.0\refint\Listas.dll
+C:\dev\FundamentosCSharp\Listas\obj\Debug\net9.0\Listas.pdb
+C:\dev\FundamentosCSharp\Listas\obj\Debug\net9.0\Listas.genruntimeconfig.cache
+C:\dev\FundamentosCSharp\Listas\obj\Debug\net9.0\ref\Listas.dll

@@ -1,0 +1,14 @@
+C:\dev\FundamentosCSharp\CriandoMetodos\bin\Debug\net9.0\CriandoMetodos.exe
+C:\dev\FundamentosCSharp\CriandoMetodos\bin\Debug\net9.0\CriandoMetodos.deps.json
+C:\dev\FundamentosCSharp\CriandoMetodos\bin\Debug\net9.0\CriandoMetodos.runtimeconfig.json
+C:\dev\FundamentosCSharp\CriandoMetodos\bin\Debug\net9.0\CriandoMetodos.dll
+C:\dev\FundamentosCSharp\CriandoMetodos\bin\Debug\net9.0\CriandoMetodos.pdb
+C:\dev\FundamentosCSharp\CriandoMetodos\obj\Debug\net9.0\CriandoMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCSharp\CriandoMetodos\obj\Debug\net9.0\CriandoMetodos.AssemblyInfoInputs.cache
+C:\dev\FundamentosCSharp\CriandoMetodos\obj\Debug\net9.0\CriandoMetodos.AssemblyInfo.cs
+C:\dev\FundamentosCSharp\CriandoMetodos\obj\Debug\net9.0\CriandoMetodos.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCSharp\CriandoMetodos\obj\Debug\net9.0\CriandoMetodos.dll
+C:\dev\FundamentosCSharp\CriandoMetodos\obj\Debug\net9.0\refint\CriandoMetodos.dll
+C:\dev\FundamentosCSharp\CriandoMetodos\obj\Debug\net9.0\CriandoMetodos.pdb
+C:\dev\FundamentosCSharp\CriandoMetodos\obj\Debug\net9.0\CriandoMetodos.genruntimeconfig.cache
+C:\dev\FundamentosCSharp\CriandoMetodos\obj\Debug\net9.0\ref\CriandoMetodos.dll

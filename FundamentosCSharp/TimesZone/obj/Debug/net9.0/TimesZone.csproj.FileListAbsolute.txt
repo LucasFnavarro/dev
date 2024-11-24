@@ -1,0 +1,14 @@
+C:\dev\FundamentosCSharp\TimesZone\bin\Debug\net9.0\TimesZone.exe
+C:\dev\FundamentosCSharp\TimesZone\bin\Debug\net9.0\TimesZone.deps.json
+C:\dev\FundamentosCSharp\TimesZone\bin\Debug\net9.0\TimesZone.runtimeconfig.json
+C:\dev\FundamentosCSharp\TimesZone\bin\Debug\net9.0\TimesZone.dll
+C:\dev\FundamentosCSharp\TimesZone\bin\Debug\net9.0\TimesZone.pdb
+C:\dev\FundamentosCSharp\TimesZone\obj\Debug\net9.0\TimesZone.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCSharp\TimesZone\obj\Debug\net9.0\TimesZone.AssemblyInfoInputs.cache
+C:\dev\FundamentosCSharp\TimesZone\obj\Debug\net9.0\TimesZone.AssemblyInfo.cs
+C:\dev\FundamentosCSharp\TimesZone\obj\Debug\net9.0\TimesZone.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCSharp\TimesZone\obj\Debug\net9.0\TimesZone.dll
+C:\dev\FundamentosCSharp\TimesZone\obj\Debug\net9.0\refint\TimesZone.dll
+C:\dev\FundamentosCSharp\TimesZone\obj\Debug\net9.0\TimesZone.pdb
+C:\dev\FundamentosCSharp\TimesZone\obj\Debug\net9.0\TimesZone.genruntimeconfig.cache
+C:\dev\FundamentosCSharp\TimesZone\obj\Debug\net9.0\ref\TimesZone.dll

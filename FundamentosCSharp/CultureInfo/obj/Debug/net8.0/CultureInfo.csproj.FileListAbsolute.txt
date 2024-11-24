@@ -1,0 +1,14 @@
+C:\dev\FundamentosCSharp\CultureInfo\bin\Debug\net8.0\CultureInfo.exe
+C:\dev\FundamentosCSharp\CultureInfo\bin\Debug\net8.0\CultureInfo.deps.json
+C:\dev\FundamentosCSharp\CultureInfo\bin\Debug\net8.0\CultureInfo.runtimeconfig.json
+C:\dev\FundamentosCSharp\CultureInfo\bin\Debug\net8.0\CultureInfo.dll
+C:\dev\FundamentosCSharp\CultureInfo\bin\Debug\net8.0\CultureInfo.pdb
+C:\dev\FundamentosCSharp\CultureInfo\obj\Debug\net8.0\CultureInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCSharp\CultureInfo\obj\Debug\net8.0\CultureInfo.AssemblyInfoInputs.cache
+C:\dev\FundamentosCSharp\CultureInfo\obj\Debug\net8.0\CultureInfo.AssemblyInfo.cs
+C:\dev\FundamentosCSharp\CultureInfo\obj\Debug\net8.0\CultureInfo.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCSharp\CultureInfo\obj\Debug\net8.0\CultureInfo.dll
+C:\dev\FundamentosCSharp\CultureInfo\obj\Debug\net8.0\refint\CultureInfo.dll
+C:\dev\FundamentosCSharp\CultureInfo\obj\Debug\net8.0\CultureInfo.pdb
+C:\dev\FundamentosCSharp\CultureInfo\obj\Debug\net8.0\CultureInfo.genruntimeconfig.cache
+C:\dev\FundamentosCSharp\CultureInfo\obj\Debug\net8.0\ref\CultureInfo.dll

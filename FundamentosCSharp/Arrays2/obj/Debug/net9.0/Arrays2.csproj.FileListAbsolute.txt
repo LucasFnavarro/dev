@@ -1,0 +1,15 @@
+C:\dev\FundamentosCSharp\Arrays2\bin\Debug\net9.0\Arrays2.exe
+C:\dev\FundamentosCSharp\Arrays2\bin\Debug\net9.0\Arrays2.deps.json
+C:\dev\FundamentosCSharp\Arrays2\bin\Debug\net9.0\Arrays2.runtimeconfig.json
+C:\dev\FundamentosCSharp\Arrays2\bin\Debug\net9.0\Arrays2.dll
+C:\dev\FundamentosCSharp\Arrays2\bin\Debug\net9.0\Arrays2.pdb
+C:\dev\FundamentosCSharp\Arrays2\obj\Debug\net9.0\Arrays2.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCSharp\Arrays2\obj\Debug\net9.0\Arrays2.AssemblyInfoInputs.cache
+C:\dev\FundamentosCSharp\Arrays2\obj\Debug\net9.0\Arrays2.AssemblyInfo.cs
+C:\dev\FundamentosCSharp\Arrays2\obj\Debug\net9.0\Arrays2.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCSharp\Arrays2\obj\Debug\net9.0\Arrays2.sourcelink.json
+C:\dev\FundamentosCSharp\Arrays2\obj\Debug\net9.0\Arrays2.dll
+C:\dev\FundamentosCSharp\Arrays2\obj\Debug\net9.0\refint\Arrays2.dll
+C:\dev\FundamentosCSharp\Arrays2\obj\Debug\net9.0\Arrays2.pdb
+C:\dev\FundamentosCSharp\Arrays2\obj\Debug\net9.0\Arrays2.genruntimeconfig.cache
+C:\dev\FundamentosCSharp\Arrays2\obj\Debug\net9.0\ref\Arrays2.dll

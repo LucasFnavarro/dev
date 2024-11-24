@@ -1,0 +1,14 @@
+C:\dev\FundamentosCSharp\StringsAdicionais\obj\Debug\net8.0\StringsAdicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCSharp\StringsAdicionais\obj\Debug\net8.0\StringsAdicionais.AssemblyInfoInputs.cache
+C:\dev\FundamentosCSharp\StringsAdicionais\obj\Debug\net8.0\StringsAdicionais.AssemblyInfo.cs
+C:\dev\FundamentosCSharp\StringsAdicionais\obj\Debug\net8.0\StringsAdicionais.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCSharp\StringsAdicionais\bin\Debug\net8.0\StringsAdicionais.exe
+C:\dev\FundamentosCSharp\StringsAdicionais\bin\Debug\net8.0\StringsAdicionais.deps.json
+C:\dev\FundamentosCSharp\StringsAdicionais\bin\Debug\net8.0\StringsAdicionais.runtimeconfig.json
+C:\dev\FundamentosCSharp\StringsAdicionais\bin\Debug\net8.0\StringsAdicionais.dll
+C:\dev\FundamentosCSharp\StringsAdicionais\bin\Debug\net8.0\StringsAdicionais.pdb
+C:\dev\FundamentosCSharp\StringsAdicionais\obj\Debug\net8.0\StringsAdicionais.dll
+C:\dev\FundamentosCSharp\StringsAdicionais\obj\Debug\net8.0\refint\StringsAdicionais.dll
+C:\dev\FundamentosCSharp\StringsAdicionais\obj\Debug\net8.0\StringsAdicionais.pdb
+C:\dev\FundamentosCSharp\StringsAdicionais\obj\Debug\net8.0\StringsAdicionais.genruntimeconfig.cache
+C:\dev\FundamentosCSharp\StringsAdicionais\obj\Debug\net8.0\ref\StringsAdicionais.dll

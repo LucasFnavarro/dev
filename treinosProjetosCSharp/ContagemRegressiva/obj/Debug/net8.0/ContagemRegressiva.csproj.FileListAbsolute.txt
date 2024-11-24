@@ -1,0 +1,14 @@
+C:\dev\treinosProjetosCSharp\ContagemRegressiva\bin\Debug\net8.0\ContagemRegressiva.exe
+C:\dev\treinosProjetosCSharp\ContagemRegressiva\bin\Debug\net8.0\ContagemRegressiva.deps.json
+C:\dev\treinosProjetosCSharp\ContagemRegressiva\bin\Debug\net8.0\ContagemRegressiva.runtimeconfig.json
+C:\dev\treinosProjetosCSharp\ContagemRegressiva\bin\Debug\net8.0\ContagemRegressiva.dll
+C:\dev\treinosProjetosCSharp\ContagemRegressiva\bin\Debug\net8.0\ContagemRegressiva.pdb
+C:\dev\treinosProjetosCSharp\ContagemRegressiva\obj\Debug\net8.0\ContagemRegressiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\treinosProjetosCSharp\ContagemRegressiva\obj\Debug\net8.0\ContagemRegressiva.AssemblyInfoInputs.cache
+C:\dev\treinosProjetosCSharp\ContagemRegressiva\obj\Debug\net8.0\ContagemRegressiva.AssemblyInfo.cs
+C:\dev\treinosProjetosCSharp\ContagemRegressiva\obj\Debug\net8.0\ContagemRegressiva.csproj.CoreCompileInputs.cache
+C:\dev\treinosProjetosCSharp\ContagemRegressiva\obj\Debug\net8.0\ContagemRegressiva.dll
+C:\dev\treinosProjetosCSharp\ContagemRegressiva\obj\Debug\net8.0\refint\ContagemRegressiva.dll
+C:\dev\treinosProjetosCSharp\ContagemRegressiva\obj\Debug\net8.0\ContagemRegressiva.pdb
+C:\dev\treinosProjetosCSharp\ContagemRegressiva\obj\Debug\net8.0\ContagemRegressiva.genruntimeconfig.cache
+C:\dev\treinosProjetosCSharp\ContagemRegressiva\obj\Debug\net8.0\ref\ContagemRegressiva.dll

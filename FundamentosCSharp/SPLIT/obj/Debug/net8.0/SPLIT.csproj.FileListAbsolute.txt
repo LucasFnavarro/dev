@@ -1,0 +1,14 @@
+C:\dev\FundamentosCSharp\SPLIT\bin\Debug\net8.0\SPLIT.exe
+C:\dev\FundamentosCSharp\SPLIT\bin\Debug\net8.0\SPLIT.deps.json
+C:\dev\FundamentosCSharp\SPLIT\bin\Debug\net8.0\SPLIT.runtimeconfig.json
+C:\dev\FundamentosCSharp\SPLIT\bin\Debug\net8.0\SPLIT.dll
+C:\dev\FundamentosCSharp\SPLIT\bin\Debug\net8.0\SPLIT.pdb
+C:\dev\FundamentosCSharp\SPLIT\obj\Debug\net8.0\SPLIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCSharp\SPLIT\obj\Debug\net8.0\SPLIT.AssemblyInfoInputs.cache
+C:\dev\FundamentosCSharp\SPLIT\obj\Debug\net8.0\SPLIT.AssemblyInfo.cs
+C:\dev\FundamentosCSharp\SPLIT\obj\Debug\net8.0\SPLIT.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCSharp\SPLIT\obj\Debug\net8.0\SPLIT.dll
+C:\dev\FundamentosCSharp\SPLIT\obj\Debug\net8.0\refint\SPLIT.dll
+C:\dev\FundamentosCSharp\SPLIT\obj\Debug\net8.0\SPLIT.pdb
+C:\dev\FundamentosCSharp\SPLIT\obj\Debug\net8.0\SPLIT.genruntimeconfig.cache
+C:\dev\FundamentosCSharp\SPLIT\obj\Debug\net8.0\ref\SPLIT.dll

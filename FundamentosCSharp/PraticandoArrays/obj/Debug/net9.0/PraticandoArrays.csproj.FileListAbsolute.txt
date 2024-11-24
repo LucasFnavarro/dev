@@ -1,0 +1,14 @@
+C:\dev\FundamentosCSharp\PraticandoArrays\bin\Debug\net9.0\PraticandoArrays.exe
+C:\dev\FundamentosCSharp\PraticandoArrays\bin\Debug\net9.0\PraticandoArrays.deps.json
+C:\dev\FundamentosCSharp\PraticandoArrays\bin\Debug\net9.0\PraticandoArrays.runtimeconfig.json
+C:\dev\FundamentosCSharp\PraticandoArrays\bin\Debug\net9.0\PraticandoArrays.dll
+C:\dev\FundamentosCSharp\PraticandoArrays\bin\Debug\net9.0\PraticandoArrays.pdb
+C:\dev\FundamentosCSharp\PraticandoArrays\obj\Debug\net9.0\PraticandoArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCSharp\PraticandoArrays\obj\Debug\net9.0\PraticandoArrays.AssemblyInfoInputs.cache
+C:\dev\FundamentosCSharp\PraticandoArrays\obj\Debug\net9.0\PraticandoArrays.AssemblyInfo.cs
+C:\dev\FundamentosCSharp\PraticandoArrays\obj\Debug\net9.0\PraticandoArrays.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCSharp\PraticandoArrays\obj\Debug\net9.0\PraticandoArrays.dll
+C:\dev\FundamentosCSharp\PraticandoArrays\obj\Debug\net9.0\refint\PraticandoArrays.dll
+C:\dev\FundamentosCSharp\PraticandoArrays\obj\Debug\net9.0\PraticandoArrays.pdb
+C:\dev\FundamentosCSharp\PraticandoArrays\obj\Debug\net9.0\PraticandoArrays.genruntimeconfig.cache
+C:\dev\FundamentosCSharp\PraticandoArrays\obj\Debug\net9.0\ref\PraticandoArrays.dll

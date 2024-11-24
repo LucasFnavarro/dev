@@ -1,0 +1,14 @@
+C:\dev\FundamentosCSharp\Arrays\obj\Debug\net9.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCSharp\Arrays\obj\Debug\net9.0\Arrays.AssemblyInfoInputs.cache
+C:\dev\FundamentosCSharp\Arrays\obj\Debug\net9.0\Arrays.AssemblyInfo.cs
+C:\dev\FundamentosCSharp\Arrays\obj\Debug\net9.0\Arrays.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCSharp\Arrays\bin\Debug\net9.0\Arrays.exe
+C:\dev\FundamentosCSharp\Arrays\bin\Debug\net9.0\Arrays.deps.json
+C:\dev\FundamentosCSharp\Arrays\bin\Debug\net9.0\Arrays.runtimeconfig.json
+C:\dev\FundamentosCSharp\Arrays\bin\Debug\net9.0\Arrays.dll
+C:\dev\FundamentosCSharp\Arrays\bin\Debug\net9.0\Arrays.pdb
+C:\dev\FundamentosCSharp\Arrays\obj\Debug\net9.0\Arrays.dll
+C:\dev\FundamentosCSharp\Arrays\obj\Debug\net9.0\refint\Arrays.dll
+C:\dev\FundamentosCSharp\Arrays\obj\Debug\net9.0\Arrays.pdb
+C:\dev\FundamentosCSharp\Arrays\obj\Debug\net9.0\Arrays.genruntimeconfig.cache
+C:\dev\FundamentosCSharp\Arrays\obj\Debug\net9.0\ref\Arrays.dll

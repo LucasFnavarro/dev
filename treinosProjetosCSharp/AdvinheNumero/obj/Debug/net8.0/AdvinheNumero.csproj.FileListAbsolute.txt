@@ -1,0 +1,14 @@
+C:\dev\treinosProjetosCSharp\AdvinheNumero\bin\Debug\net8.0\AdvinheNumero.exe
+C:\dev\treinosProjetosCSharp\AdvinheNumero\bin\Debug\net8.0\AdvinheNumero.deps.json
+C:\dev\treinosProjetosCSharp\AdvinheNumero\bin\Debug\net8.0\AdvinheNumero.runtimeconfig.json
+C:\dev\treinosProjetosCSharp\AdvinheNumero\bin\Debug\net8.0\AdvinheNumero.dll
+C:\dev\treinosProjetosCSharp\AdvinheNumero\bin\Debug\net8.0\AdvinheNumero.pdb
+C:\dev\treinosProjetosCSharp\AdvinheNumero\obj\Debug\net8.0\AdvinheNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\treinosProjetosCSharp\AdvinheNumero\obj\Debug\net8.0\AdvinheNumero.AssemblyInfoInputs.cache
+C:\dev\treinosProjetosCSharp\AdvinheNumero\obj\Debug\net8.0\AdvinheNumero.AssemblyInfo.cs
+C:\dev\treinosProjetosCSharp\AdvinheNumero\obj\Debug\net8.0\AdvinheNumero.csproj.CoreCompileInputs.cache
+C:\dev\treinosProjetosCSharp\AdvinheNumero\obj\Debug\net8.0\AdvinheNumero.dll
+C:\dev\treinosProjetosCSharp\AdvinheNumero\obj\Debug\net8.0\refint\AdvinheNumero.dll
+C:\dev\treinosProjetosCSharp\AdvinheNumero\obj\Debug\net8.0\AdvinheNumero.pdb
+C:\dev\treinosProjetosCSharp\AdvinheNumero\obj\Debug\net8.0\AdvinheNumero.genruntimeconfig.cache
+C:\dev\treinosProjetosCSharp\AdvinheNumero\obj\Debug\net8.0\ref\AdvinheNumero.dll

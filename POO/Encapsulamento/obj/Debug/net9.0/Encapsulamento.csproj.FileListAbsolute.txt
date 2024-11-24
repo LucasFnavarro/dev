@@ -1,0 +1,15 @@
+C:\dev\POO\Encapsulamento\obj\Debug\net9.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\POO\Encapsulamento\obj\Debug\net9.0\Encapsulamento.AssemblyInfoInputs.cache
+C:\dev\POO\Encapsulamento\obj\Debug\net9.0\Encapsulamento.AssemblyInfo.cs
+C:\dev\POO\Encapsulamento\obj\Debug\net9.0\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\dev\POO\Encapsulamento\obj\Debug\net9.0\Encapsulamento.sourcelink.json
+C:\dev\POO\Encapsulamento\bin\Debug\net9.0\Encapsulamento.exe
+C:\dev\POO\Encapsulamento\bin\Debug\net9.0\Encapsulamento.deps.json
+C:\dev\POO\Encapsulamento\bin\Debug\net9.0\Encapsulamento.runtimeconfig.json
+C:\dev\POO\Encapsulamento\bin\Debug\net9.0\Encapsulamento.dll
+C:\dev\POO\Encapsulamento\bin\Debug\net9.0\Encapsulamento.pdb
+C:\dev\POO\Encapsulamento\obj\Debug\net9.0\Encapsulamento.dll
+C:\dev\POO\Encapsulamento\obj\Debug\net9.0\refint\Encapsulamento.dll
+C:\dev\POO\Encapsulamento\obj\Debug\net9.0\Encapsulamento.pdb
+C:\dev\POO\Encapsulamento\obj\Debug\net9.0\Encapsulamento.genruntimeconfig.cache
+C:\dev\POO\Encapsulamento\obj\Debug\net9.0\ref\Encapsulamento.dll

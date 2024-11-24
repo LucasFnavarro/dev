@@ -1,0 +1,15 @@
+C:\dev\POO\ClasseEObjetos\bin\Debug\net9.0\ClasseEObjetos.exe
+C:\dev\POO\ClasseEObjetos\bin\Debug\net9.0\ClasseEObjetos.deps.json
+C:\dev\POO\ClasseEObjetos\bin\Debug\net9.0\ClasseEObjetos.runtimeconfig.json
+C:\dev\POO\ClasseEObjetos\bin\Debug\net9.0\ClasseEObjetos.dll
+C:\dev\POO\ClasseEObjetos\bin\Debug\net9.0\ClasseEObjetos.pdb
+C:\dev\POO\ClasseEObjetos\obj\Debug\net9.0\ClasseEObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\POO\ClasseEObjetos\obj\Debug\net9.0\ClasseEObjetos.AssemblyInfoInputs.cache
+C:\dev\POO\ClasseEObjetos\obj\Debug\net9.0\ClasseEObjetos.AssemblyInfo.cs
+C:\dev\POO\ClasseEObjetos\obj\Debug\net9.0\ClasseEObjetos.csproj.CoreCompileInputs.cache
+C:\dev\POO\ClasseEObjetos\obj\Debug\net9.0\ClasseEObjetos.sourcelink.json
+C:\dev\POO\ClasseEObjetos\obj\Debug\net9.0\ClasseEObjetos.dll
+C:\dev\POO\ClasseEObjetos\obj\Debug\net9.0\refint\ClasseEObjetos.dll
+C:\dev\POO\ClasseEObjetos\obj\Debug\net9.0\ClasseEObjetos.pdb
+C:\dev\POO\ClasseEObjetos\obj\Debug\net9.0\ClasseEObjetos.genruntimeconfig.cache
+C:\dev\POO\ClasseEObjetos\obj\Debug\net9.0\ref\ClasseEObjetos.dll

@@ -1,0 +1,14 @@
+C:\dev\FundamentosCSharp\InterpolacaoDeStrings\bin\Debug\net8.0\InterpolacaoDeStrings.exe
+C:\dev\FundamentosCSharp\InterpolacaoDeStrings\bin\Debug\net8.0\InterpolacaoDeStrings.deps.json
+C:\dev\FundamentosCSharp\InterpolacaoDeStrings\bin\Debug\net8.0\InterpolacaoDeStrings.runtimeconfig.json
+C:\dev\FundamentosCSharp\InterpolacaoDeStrings\bin\Debug\net8.0\InterpolacaoDeStrings.dll
+C:\dev\FundamentosCSharp\InterpolacaoDeStrings\bin\Debug\net8.0\InterpolacaoDeStrings.pdb
+C:\dev\FundamentosCSharp\InterpolacaoDeStrings\obj\Debug\net8.0\InterpolacaoDeStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FundamentosCSharp\InterpolacaoDeStrings\obj\Debug\net8.0\InterpolacaoDeStrings.AssemblyInfoInputs.cache
+C:\dev\FundamentosCSharp\InterpolacaoDeStrings\obj\Debug\net8.0\InterpolacaoDeStrings.AssemblyInfo.cs
+C:\dev\FundamentosCSharp\InterpolacaoDeStrings\obj\Debug\net8.0\InterpolacaoDeStrings.csproj.CoreCompileInputs.cache
+C:\dev\FundamentosCSharp\InterpolacaoDeStrings\obj\Debug\net8.0\InterpolacaoDeStrings.dll
+C:\dev\FundamentosCSharp\InterpolacaoDeStrings\obj\Debug\net8.0\refint\InterpolacaoDeStrings.dll
+C:\dev\FundamentosCSharp\InterpolacaoDeStrings\obj\Debug\net8.0\InterpolacaoDeStrings.pdb
+C:\dev\FundamentosCSharp\InterpolacaoDeStrings\obj\Debug\net8.0\InterpolacaoDeStrings.genruntimeconfig.cache
+C:\dev\FundamentosCSharp\InterpolacaoDeStrings\obj\Debug\net8.0\ref\InterpolacaoDeStrings.dll
