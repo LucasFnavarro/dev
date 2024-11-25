@@ -1,0 +1,15 @@
+C:\dev\treinosProjetosCSharp\JogoDeDados\JogoDeDados\bin\Debug\net8.0\JogoDeDados.exe
+C:\dev\treinosProjetosCSharp\JogoDeDados\JogoDeDados\bin\Debug\net8.0\JogoDeDados.deps.json
+C:\dev\treinosProjetosCSharp\JogoDeDados\JogoDeDados\bin\Debug\net8.0\JogoDeDados.runtimeconfig.json
+C:\dev\treinosProjetosCSharp\JogoDeDados\JogoDeDados\bin\Debug\net8.0\JogoDeDados.dll
+C:\dev\treinosProjetosCSharp\JogoDeDados\JogoDeDados\bin\Debug\net8.0\JogoDeDados.pdb
+C:\dev\treinosProjetosCSharp\JogoDeDados\JogoDeDados\obj\Debug\net8.0\JogoDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\treinosProjetosCSharp\JogoDeDados\JogoDeDados\obj\Debug\net8.0\JogoDeDados.AssemblyInfoInputs.cache
+C:\dev\treinosProjetosCSharp\JogoDeDados\JogoDeDados\obj\Debug\net8.0\JogoDeDados.AssemblyInfo.cs
+C:\dev\treinosProjetosCSharp\JogoDeDados\JogoDeDados\obj\Debug\net8.0\JogoDeDados.csproj.CoreCompileInputs.cache
+C:\dev\treinosProjetosCSharp\JogoDeDados\JogoDeDados\obj\Debug\net8.0\JogoDeDados.sourcelink.json
+C:\dev\treinosProjetosCSharp\JogoDeDados\JogoDeDados\obj\Debug\net8.0\JogoDeDados.dll
+C:\dev\treinosProjetosCSharp\JogoDeDados\JogoDeDados\obj\Debug\net8.0\refint\JogoDeDados.dll
+C:\dev\treinosProjetosCSharp\JogoDeDados\JogoDeDados\obj\Debug\net8.0\JogoDeDados.pdb
+C:\dev\treinosProjetosCSharp\JogoDeDados\JogoDeDados\obj\Debug\net8.0\JogoDeDados.genruntimeconfig.cache
+C:\dev\treinosProjetosCSharp\JogoDeDados\JogoDeDados\obj\Debug\net8.0\ref\JogoDeDados.dll

@@ -1,0 +1,15 @@
+C:\dev\treinosProjetosCSharp\AluguelDeCarros\bin\Debug\net9.0\AluguelDeCarros.exe
+C:\dev\treinosProjetosCSharp\AluguelDeCarros\bin\Debug\net9.0\AluguelDeCarros.deps.json
+C:\dev\treinosProjetosCSharp\AluguelDeCarros\bin\Debug\net9.0\AluguelDeCarros.runtimeconfig.json
+C:\dev\treinosProjetosCSharp\AluguelDeCarros\bin\Debug\net9.0\AluguelDeCarros.dll
+C:\dev\treinosProjetosCSharp\AluguelDeCarros\bin\Debug\net9.0\AluguelDeCarros.pdb
+C:\dev\treinosProjetosCSharp\AluguelDeCarros\obj\Debug\net9.0\AluguelDeCarros.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\treinosProjetosCSharp\AluguelDeCarros\obj\Debug\net9.0\AluguelDeCarros.AssemblyInfoInputs.cache
+C:\dev\treinosProjetosCSharp\AluguelDeCarros\obj\Debug\net9.0\AluguelDeCarros.AssemblyInfo.cs
+C:\dev\treinosProjetosCSharp\AluguelDeCarros\obj\Debug\net9.0\AluguelDeCarros.csproj.CoreCompileInputs.cache
+C:\dev\treinosProjetosCSharp\AluguelDeCarros\obj\Debug\net9.0\AluguelDeCarros.sourcelink.json
+C:\dev\treinosProjetosCSharp\AluguelDeCarros\obj\Debug\net9.0\AluguelDeCarros.dll
+C:\dev\treinosProjetosCSharp\AluguelDeCarros\obj\Debug\net9.0\refint\AluguelDeCarros.dll
+C:\dev\treinosProjetosCSharp\AluguelDeCarros\obj\Debug\net9.0\AluguelDeCarros.pdb
+C:\dev\treinosProjetosCSharp\AluguelDeCarros\obj\Debug\net9.0\AluguelDeCarros.genruntimeconfig.cache
+C:\dev\treinosProjetosCSharp\AluguelDeCarros\obj\Debug\net9.0\ref\AluguelDeCarros.dll

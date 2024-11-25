@@ -1,0 +1,15 @@
+C:\dev\treinosProjetosCSharp\SorteaAlunos\SorteaAlunos\bin\Debug\net8.0\SorteaAlunos.exe
+C:\dev\treinosProjetosCSharp\SorteaAlunos\SorteaAlunos\bin\Debug\net8.0\SorteaAlunos.deps.json
+C:\dev\treinosProjetosCSharp\SorteaAlunos\SorteaAlunos\bin\Debug\net8.0\SorteaAlunos.runtimeconfig.json
+C:\dev\treinosProjetosCSharp\SorteaAlunos\SorteaAlunos\bin\Debug\net8.0\SorteaAlunos.dll
+C:\dev\treinosProjetosCSharp\SorteaAlunos\SorteaAlunos\bin\Debug\net8.0\SorteaAlunos.pdb
+C:\dev\treinosProjetosCSharp\SorteaAlunos\SorteaAlunos\obj\Debug\net8.0\SorteaAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\treinosProjetosCSharp\SorteaAlunos\SorteaAlunos\obj\Debug\net8.0\SorteaAlunos.AssemblyInfoInputs.cache
+C:\dev\treinosProjetosCSharp\SorteaAlunos\SorteaAlunos\obj\Debug\net8.0\SorteaAlunos.AssemblyInfo.cs
+C:\dev\treinosProjetosCSharp\SorteaAlunos\SorteaAlunos\obj\Debug\net8.0\SorteaAlunos.csproj.CoreCompileInputs.cache
+C:\dev\treinosProjetosCSharp\SorteaAlunos\SorteaAlunos\obj\Debug\net8.0\SorteaAlunos.sourcelink.json
+C:\dev\treinosProjetosCSharp\SorteaAlunos\SorteaAlunos\obj\Debug\net8.0\SorteaAlunos.dll
+C:\dev\treinosProjetosCSharp\SorteaAlunos\SorteaAlunos\obj\Debug\net8.0\refint\SorteaAlunos.dll
+C:\dev\treinosProjetosCSharp\SorteaAlunos\SorteaAlunos\obj\Debug\net8.0\SorteaAlunos.pdb
+C:\dev\treinosProjetosCSharp\SorteaAlunos\SorteaAlunos\obj\Debug\net8.0\SorteaAlunos.genruntimeconfig.cache
+C:\dev\treinosProjetosCSharp\SorteaAlunos\SorteaAlunos\obj\Debug\net8.0\ref\SorteaAlunos.dll
