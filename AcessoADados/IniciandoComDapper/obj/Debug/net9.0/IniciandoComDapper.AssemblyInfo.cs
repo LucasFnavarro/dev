@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IniciandoComDapper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b50a6b3d85ae1fea127484f8fc04d0b34304940")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91745b3241591001b08b6c04d0af0ca52b88abc1")]
 [assembly: System.Reflection.AssemblyProductAttribute("IniciandoComDapper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IniciandoComDapper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

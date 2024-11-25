@@ -14,11 +14,15 @@ namespace IniciandoComDapper
             // CreateManyCategory(connection);
             // UpdateCategory(connection);
             // GetCategory(connection);
+            // ExecuteScalar(connection);
             // ListCategories(connection);
             // ExecuteProcedure(connection);
-            DeleteStudent(connection, "e5cfd760-163a-41a7-acb7-72d22bf8bfee");
+            // DeleteStudent(connection, "e5cfd760-163a-41a7-acb7-72d22bf8bfee");
+            // ReadView(connection);
         }
 
+        // Mapeamento de objetos fortemente tipados, 
+        // o que é uma prática recomendada para garantir maior clareza e segurança no código. 
         static void ListCategories(SqlConnection connection)
         {
             var categorias = connection.Query<Category>("SELECT [Id], [Title], [Summary] FROM [Category]");
@@ -28,7 +32,7 @@ namespace IniciandoComDapper
             }
         }
 
-        static void GetCategory(SqlConnection connection)
+        static void GetCategoryViaId(SqlConnection connection)
         {
             try
             {
@@ -52,7 +56,7 @@ namespace IniciandoComDapper
             // Inserindo nova categoria no BD.
             var category = new Category
             {
-                // Id = Guid.NewGuid(),
+                Id = Guid.NewGuid(),
                 Title = "AWS Amazon",
                 Url = "deploynanuvem",
                 Summary = "Aprendendo Git GitHub e deploy na nuvem",
@@ -62,7 +66,7 @@ namespace IniciandoComDapper
             };
 
             // Nunca concatenar strings nas query; $"{category.Id}";
-            var sqlInsert = @"INSERT INTO [Category] VALUES (NEWID(), @Title, @Url, @Summary, @Order, @Description, @Featuread)";
+            var sqlInsert = @"INSERT INTO [Category] VALUES (@Id, @Title, @Url, @Summary, @Order, @Description, @Featuread)";
 
             // connection.Execute(sql);
             var insert = connection.Execute(sqlInsert, new
@@ -151,7 +155,6 @@ namespace IniciandoComDapper
             Console.WriteLine($"{updateCategoria} registros atualizados");
         }
 
-
         static void ExecuteProcedure(SqlConnection connection)
         {
             var procedure = "[spDeleteStudent]";
@@ -167,5 +170,48 @@ namespace IniciandoComDapper
             connection.Execute(sql, new { StudentId = studentId });
         }
 
+        static void ExecuteScalar(SqlConnection connection)
+        {
+             var category = new Category
+            {
+                Title = "Aprendendo Scalar",
+                Url = "dapper",
+                Summary = "Execute Scalar com Dapper SQLServer",
+                Order = 1,
+                Description = "dapper",
+                Featuread = true
+            };
+
+            // Nunca concatenar strings nas query; $"{category.Id}";
+            var sqlInsert = @"INSERT INTO [Category] OUTPUT inserted.[Id]
+             VALUES (NEWID(), @Title, @Url, @Summary, @Order, @Description, @Featuread)
+             SELECT SCOPE_IDENTITY()";
+
+            // connection.Execute(sql);
+            var id = connection.ExecuteScalar<Guid>(sqlInsert, new
+            {
+                category.Title,
+                category.Url,
+                category.Summary,
+                category.Order,
+                category.Description,
+                category.Featuread
+            });
+
+            Console.WriteLine($"A categoria inserida foi: {id}");
+        }
+    
+        static void ReadView(SqlConnection connection)
+        {
+            var sql = "SELECT * FROM [vwCourses]";
+
+            var courses = connection.Query(sql);
+
+            foreach(var item in courses)
+            {
+                Console.WriteLine($"Id: {item.Id} - {item.Title}");
+            }
+        }
+    
     }
 }
