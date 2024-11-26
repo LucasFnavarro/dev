@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "CEGOjyxQAul1Yaum+RL78mtWPvJDom2Ith3T/kwLXfI=",
+  "Source": "RazorPages",
+  "BasePath": "_content/RazorPages",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RazorPages\\wwwroot",
+      "Source": "RazorPages",
+      "ContentRoot": "C:\\dev\\RazorPages\\wwwroot\\",
+      "BasePath": "_content/RazorPages",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

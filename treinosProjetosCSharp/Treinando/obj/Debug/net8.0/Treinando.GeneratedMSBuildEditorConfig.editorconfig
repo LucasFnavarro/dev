@@ -11,3 +11,5 @@ build_property.RootNamespace = Treinando
 build_property.ProjectDir = C:\dev\treinosProjetosCSharp\Treinando\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 

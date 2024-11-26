@@ -15,7 +15,7 @@ namespace IniciandoComDapper
             // UpdateCategory(connection);
             // GetCategory(connection);
             // ExecuteScalar(connection);
-            // ListCategories(connection);
+            ListCategories(connection);
             // ExecuteProcedure(connection);
             // DeleteStudent(connection, "e5cfd760-163a-41a7-acb7-72d22bf8bfee");
             // ReadView(connection);
@@ -25,10 +25,14 @@ namespace IniciandoComDapper
         // o que é uma prática recomendada para garantir maior clareza e segurança no código. 
         static void ListCategories(SqlConnection connection)
         {
-            var categorias = connection.Query<Category>("SELECT [Id], [Title], [Summary] FROM [Category]");
+            // var categorias = connection.Query<Category>("SELECT [Id], [Title], [Summary] FROM [Category]");
+            var categorias = connection.Query<Category>("SELECT * FROM [Category]"); // Não recomendando em produção
+                                                                                     // por trazer excesso de informação.
+
             foreach (var categoria in categorias)
             {
-                Console.WriteLine($"Id: {categoria.Id} - Nome: {categoria.Title} - Sumário: {categoria.Summary}");
+                Console.WriteLine("\n=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-");
+                Console.WriteLine($"Id: {categoria.Id} \nNome: {categoria.Title} \nSumário: {categoria.Summary} \nOrder: {categoria.Order} \nDescrição: {categoria.Description}");
             }
         }
 
@@ -172,7 +176,7 @@ namespace IniciandoComDapper
 
         static void ExecuteScalar(SqlConnection connection)
         {
-             var category = new Category
+            var category = new Category
             {
                 Title = "Aprendendo Scalar",
                 Url = "dapper",
@@ -200,18 +204,18 @@ namespace IniciandoComDapper
 
             Console.WriteLine($"A categoria inserida foi: {id}");
         }
-    
+
         static void ReadView(SqlConnection connection)
         {
             var sql = "SELECT * FROM [vwCourses]";
 
             var courses = connection.Query(sql);
 
-            foreach(var item in courses)
+            foreach (var item in courses)
             {
                 Console.WriteLine($"Id: {item.Id} - {item.Title}");
             }
         }
-    
+
     }
 }

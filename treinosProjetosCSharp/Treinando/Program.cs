@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Treinando
 {
@@ -6,66 +7,33 @@ namespace Treinando
     {
         static void Main(string[] args)
         {
-            Menu();
-        }
+            /*
+            List<string> alunos = new List<string> {"Lucas", "Gael", "Ana Julia", "Maria Clara"};
+            Random random = new Random();
+            int sortearUmAluno = random.Next(alunos.Count);
+            Console.WriteLine($"Aluno sorteado foi: {alunos[sortearUmAluno]}");
 
-        static void Menu()
-        {
-            Console.Clear();
-            Console.WriteLine("Digite a opção que desejar");
-            Console.WriteLine("1 - Abrir arquivo");
-            Console.WriteLine("2 - Editar arquivo");
-            Console.WriteLine("0 - Para sair");
+            int[] num = new int[9] { 10, 20, 30, 40, 50, 60, 80, 90, 100 };
+            Random random = new Random();
+            int sortearUmNumero = random.Next(num.Length);
+            System.Console.WriteLine($"Posição: {sortearUmNumero}");
+            System.Console.WriteLine(num[sortearUmNumero]);
+            */
 
-            short opcaoMenu = short.Parse(Console.ReadLine());
+            Console.Write("Informa a quantidade de alunos: ");
+            int numeroDeAlunos = int.Parse(Console.ReadLine());
 
-            switch (opcaoMenu)
+            for (var i = 0; i <= numeroDeAlunos; i++)
             {
-                case 0: System.Environment.Exit(0); break;
-                case 1: Abrir(); break;
-                case 2: Editar(); break;
-                default: Menu(); break;
-            }
-        }
-
-        static void Abrir()
-        {
-
-        }
-
-        static void Editar()
-        {
-            Console.Clear();
-            Console.WriteLine("Digite o seu texto ou (ESC para sair)");
-            Console.WriteLine("-=-=-=-=-=-=-=-=-=-=--=-=--=-=-=-");
-            var text = Console.ReadLine();
-
-            do
-            {
-                text += Console.ReadLine();
-                text += System.Environment.NewLine;
-
-            } while (Console.ReadKey().Key != ConsoleKey.Escape);
-
-            Salvar(text);
-        }
-
-        static void Salvar(string text)
-        {
-            Console.Clear();
-            Console.WriteLine("EEm qual caminho deseja salvar o arquivo?");
-            var path = Console.ReadLine();
-
-            using (var file = new StreamWriter(path))
-            {
-                file.WriteLine(text);
+                Console.Write($"Informe a nota do aluno {i}: ");
+                double nota = double.Parse(Console.ReadLine());
+             
+             
             }
 
-            Console.WriteLine($"O arquivo {path} foi salvo com sucesso");
-            Menu();
+
+
 
         }
-
-
     }
 }

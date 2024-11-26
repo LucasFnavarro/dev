@@ -1,0 +1,15 @@
+C:\dev\AcessoADados\Blog\bin\Debug\net9.0\Blog.exe
+C:\dev\AcessoADados\Blog\bin\Debug\net9.0\Blog.deps.json
+C:\dev\AcessoADados\Blog\bin\Debug\net9.0\Blog.runtimeconfig.json
+C:\dev\AcessoADados\Blog\bin\Debug\net9.0\Blog.dll
+C:\dev\AcessoADados\Blog\bin\Debug\net9.0\Blog.pdb
+C:\dev\AcessoADados\Blog\obj\Debug\net9.0\Blog.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\AcessoADados\Blog\obj\Debug\net9.0\Blog.AssemblyInfoInputs.cache
+C:\dev\AcessoADados\Blog\obj\Debug\net9.0\Blog.AssemblyInfo.cs
+C:\dev\AcessoADados\Blog\obj\Debug\net9.0\Blog.csproj.CoreCompileInputs.cache
+C:\dev\AcessoADados\Blog\obj\Debug\net9.0\Blog.sourcelink.json
+C:\dev\AcessoADados\Blog\obj\Debug\net9.0\Blog.dll
+C:\dev\AcessoADados\Blog\obj\Debug\net9.0\refint\Blog.dll
+C:\dev\AcessoADados\Blog\obj\Debug\net9.0\Blog.pdb
+C:\dev\AcessoADados\Blog\obj\Debug\net9.0\Blog.genruntimeconfig.cache
+C:\dev\AcessoADados\Blog\obj\Debug\net9.0\ref\Blog.dll
